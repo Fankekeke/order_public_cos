@@ -55,7 +55,7 @@ test1
 | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703916097311.jpg) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703915750892.jpg) |
 | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703916063808.jpg) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703915739744.jpg) |
 | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703915806141.jpg) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703915714320.jpg) |
-
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/work/936e9baf53eb9a217af4f89c616dc19.png) |
 
 
 #### 演示视频
